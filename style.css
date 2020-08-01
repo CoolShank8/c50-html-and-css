@@ -1,0 +1,45 @@
+h1 {
+    color: brown;
+}
+
+/* * {
+    border: solid;
+} */
+
+.headerclass{
+    background-color:yellow;
+    display: flex;
+    justify-content: space-between;
+}
+
+.gridclass {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-between;
+}
+
+.footer
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2
+{
+    text-align: center;
+}
+
+h1 span.headred
+{
+    color: red;
+}
+
+h1 span.headgreen
+{
+    color: green;
+}
+
+h1 span.headblue
+{
+    color: blue
+}
